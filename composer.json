@@ -1,0 +1,19 @@
+{
+  "name": "oxlib/zed",
+  "description": "Zed - flat-file database component",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zorca",
+      "email": "vs@zorca.org"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Oxlib\\Zed\\": "src/"
+    }
+  }
+}
